@@ -1,0 +1,8 @@
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    width: 100px;
+    border-color: grey;
+    border-width: 5px;
+}
